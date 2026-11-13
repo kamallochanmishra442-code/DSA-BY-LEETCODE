@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0567-permutation-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
