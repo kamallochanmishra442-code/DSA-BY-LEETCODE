@@ -5,8 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0567-permutation-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/kamallochanmishra442-code/DSA-BY-LEETCODE/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
